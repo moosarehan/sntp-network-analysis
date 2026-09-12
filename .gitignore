@@ -8,6 +8,7 @@ env/
 ENV/
 
 .ipynb_checkpoints/
+SE4095_assignment.ipynb
 
 .pytest_cache/
 .mypy_cache/
