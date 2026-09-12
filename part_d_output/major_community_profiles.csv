@@ -1,0 +1,4 @@
+community,size,share_percent,mean_pagerank,mean_betweenness,top_pagerank_blog,top_betweenness_blog
+1,632,42.41610738255034,0.0007855540717469421,0.0008393137960176217,instapundit.com,blogsforbush.com
+2,529,35.50335570469799,0.0008213573108569388,0.0009754694128414805,dailykos.com,atrios.blogspot.com
+3,38,2.5503355704697985,0.00030815766952993945,0.00016898282718610984,etalkinghead.com,theblueview.blogspot.com
